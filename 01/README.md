@@ -1,0 +1,1 @@
+Same as [the previous example](http://bl.ocks.org/nitaku/72af4fb979e6689cffb3f7a031d9375f), this time leveraging [hierarchical edge bundling](https://www.win.tue.nl/vis1/home/dholten/papers/bundles_infovis.pdf) to show imports between packages (direction is ignored).
